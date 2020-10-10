@@ -13,7 +13,7 @@ These are technologies that i'm familiar with and worked in
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sourcetree/sourcetree-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"></code>
 
 And some of: 
 
