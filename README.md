@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Marcin. Last term computer science student. Currently based in Wroclaw, Poland. This is my repository with few projects that i made during my studies.
+I'm Marcin. Last term computer science student. Currently based in Wroclaw, Poland. This is my repository with few projects that i made during my studies and are worth mentioning.
 
 These are technologies that i'm familiar with and worked in
 
