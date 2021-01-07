@@ -24,7 +24,7 @@ These are technologies that i'm familiar with and worked in
 - :video_game: I'm currently working on little multiplayer game on my private gitlab repository in order to improve my networking skills.
 - :calling: Also i'm working on a peer to peer video chat application.
 
-# Here is my gitlab where i'm developing my private projects: https://gitlab.com/bachuszmarcin7
+Here is my gitlab where i'm developing my private projects: https://gitlab.com/bachuszmarcin7
 
 # 📫 How to reach me: 
 * Email: bachuszmarcin7@gmail.com
