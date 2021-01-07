@@ -14,9 +14,6 @@ These are technologies that i'm familiar with and worked in
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sourcetree/sourcetree-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"></code>
-
-And some of: 
-
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
@@ -26,6 +23,9 @@ And some of:
 
 - :video_game: I'm currently working on little multiplayer game on my private gitlab repository in order to improve my networking skills.
 - :calling: Also i'm working on a peer to peer video chat application.
+
+# Here is my gitlab where i'm developing my private projects: https://gitlab.com/bachuszmarcin7
+
 # 📫 How to reach me: 
 * Email: bachuszmarcin7@gmail.com
 * LinkedIn: https://www.linkedin.com/in/marcin-bachusz-129838192/
